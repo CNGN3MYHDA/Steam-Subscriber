@@ -18,6 +18,3 @@ English:
     4. Create a 'addons.txt' file next to the executable file and paste the links to the addons there, separating them with a line break.
     5. Run Steam_Subscriber.exe, after opening the browser, log in to your Steam account and press Enter in the program.
     6. Wait for the program to complete.
-    
-
-
