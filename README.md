@@ -4,7 +4,7 @@
 
 ### How to use:
 Русский:
-	1. Скачайте [исполняемый (exe) файл](https://github.com/CNGN3MYHDA/Steam-Subscriber/releases).
+ 	1. Скачайте [исполняемый (exe) файл](https://github.com/CNGN3MYHDA/Steam-Subscriber/releases).
 	2. Скачайте Google Chrome (если у вас его нет) и скачайте chromedriver версии chromedriver вашего браузера [здесь](https://chromedriver.storage.googleapis.com/index.html).
 	3. Создайте папку 'driver' рядом с исполняемым файлом и поместите туда chromedriver.exe.
 	4. Создайте файл 'addons.txt' рядом с исполняемым файлом и вставте туда ссылки на допонения, разделяя их переносом строки.
