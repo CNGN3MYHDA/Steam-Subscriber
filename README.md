@@ -21,9 +21,9 @@ English:
 	
 ### <a id="guide">How can I find out the chromedriver version of my browser?</a>
 Русский:
-1. ![Нажмите на 3 точки в правом верхнем углу → выберете "Справка" → выберете "О браузере Google Chrome"](https://github.com/CNGN3MYHDA/Steam-Subscriber/blob/main/images/how_1.png?raw=true)
-2. ![В окне "О браузере Chrome" посотрите на версию (первые 3 числа)](https://github.com/CNGN3MYHDA/Steam-Subscriber/blob/main/images/how_2.png?raw=true)
+1. Нажмите на 3 точки в правом верхнем углу → выберете "Справка" → выберете "О браузере Google Chrome". ![](https://github.com/CNGN3MYHDA/Steam-Subscriber/blob/main/images/how_1_ru.png?raw=true)
+2. В окне "О браузере Chrome" посотрите на версию (первые 3 числа). ![](https://github.com/CNGN3MYHDA/Steam-Subscriber/blob/main/images/how_2_ru.png?raw=true)
 
 English:
-1. Click on the 3 dots in the top right corner → select "Help" → select "About Google Chrome".
-2. In the "About Chrome" window, look at the version (first 3 numbers).
+1. Click on the 3 dots in the top right corner → select "Help" → select "About Google Chrome". ![](https://github.com/CNGN3MYHDA/Steam-Subscriber/blob/main/images/how_1_en.png?raw=true)
+2. In the "About Chrome" window, look at the version (first 3 numbers). ![](https://github.com/CNGN3MYHDA/Steam-Subscriber/blob/main/images/how_2_en.png?raw=true)
